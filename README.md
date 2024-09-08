@@ -3,6 +3,8 @@
 Highlight changed text after an operation. Purely lua / nvim api implementation,
 no external dependencies needed.
 
+https://github.com/user-attachments/assets/4e5bfa62-c53c-4842-a09c-102508d2efd4
+
 ## ✨ Installation
 
 Using Lazy:
@@ -49,4 +51,4 @@ Using Lazy:
 ```
 
 > [!NOTE]
-> This plugin is a fork of !(highlight-undo.nvim)[https://github.com/tzachar/highlight-undo.nvim]
+> This plugin is a fork of [highlight-undo.nvim](https://github.com/tzachar/highlight-undo.nvim)
