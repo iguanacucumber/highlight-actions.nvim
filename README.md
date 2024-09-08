@@ -17,6 +17,7 @@ Using Lazy:
   opts = {
     highlight_for_count = true, -- Should '3p' or '5u' be highlighted
     duration = 300, -- Time in ms for the highlight
+    actions = {
       Undo = {
         disabled = false,
         fg = '#dcd7ba',
